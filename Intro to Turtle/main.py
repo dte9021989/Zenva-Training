@@ -1,7 +1,6 @@
 from turtle import *
 
-circle(50)
+color("red")
 forward(100)
-circle(50)
 
 done()
