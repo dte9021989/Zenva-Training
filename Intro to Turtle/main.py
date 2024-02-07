@@ -1,8 +1,14 @@
 from turtle import *
 
-forward(100)
-right(90)
-forward(100)
+def draw_square():
+    forward(50)
+    right(90)
+    forward(50)
+    right(90)
+    forward(50)
+    right(90)
+    forward(50)
 
+draw_square()
 
 done()
